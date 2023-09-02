@@ -1,5 +1,6 @@
 # XML-front
-pokretanje:
+#backend na: https://github.com/Jovana114/XWS
+# pokretanje:
 potreban je docker program
 kada se docker pokrene, onda se u folderu resouces otvori terminal u kom se pokrecu jedna po jedna komanda:
 
